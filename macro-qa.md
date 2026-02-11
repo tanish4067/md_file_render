@@ -1,10 +1,5 @@
-# JPMC CCAR Analyst II – Macro Interview Practice (GDP, Unemployment, Inflation, Rates, Yields)
+# Macro Interview Practice (GDP, Unemployment, Inflation, Rates, Yields)
 
-Format:
-- Each topic has 5 story-style chains.
-- Each chain starts simple and then connects to other macro/CCAR angles.
-- Answers are **bulleted and concise** so you can rehearse quickly.
-- Scenarios are **mostly US with CCAR framing**, with an occasional India comparison.
 
 ---
 
